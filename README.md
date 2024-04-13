@@ -54,12 +54,10 @@
   </tr>
   <tr>
     <td>Databases</td>
-      <td>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
-      </td>
-
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+    </td>
   </tr>
 </table>
 
@@ -104,5 +102,4 @@
   <li><a href="https://github.com/bezhan2009/Datagen">Datagen</a> - A Python library for generating random data of different types, including strings, numbers, and lists. Useful for creating test data, analysis, and other operations involving random data.</li>
     <li><a href="https://github.com/bezhan2009/Orbix">Orbix</a> - is an alternative command line written in the Go language. It provides the same basic commands as standard CMD, but also includes additional commands specific to the tool. Orbix is compatible with most CMD commands, providing a more flexible and extensible command shell</li>
 </ul>
-
 
