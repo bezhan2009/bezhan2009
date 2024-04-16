@@ -17,7 +17,7 @@
 
 <h2 align="center">Skills</h2>
 
-<h3 align="center">Back-End</h3>
+<h3 align="center">Back-End Technologies</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
