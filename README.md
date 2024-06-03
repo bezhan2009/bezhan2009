@@ -2,9 +2,14 @@
 <h3 align="center">Junior Back-End Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bezhan2009&label=Profile%20views&color=0e75b6&style=flat" alt="bezhan2009" />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezhan2009" alt="bezhan2009" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=bejankarimov&label=Profile%20views&color=0e75b6&style=flat-square" alt="bejankarimov" />
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
+    </a> 
+  </p>
 </p>
+
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
@@ -50,5 +55,5 @@
 <ul>
   <li><a href="https://github.com/bezhan2009/ToDoMany">ToDoMany</a> - A web application designed for task and comment management across various work environments. It allows for the creation, assignment, tracking, and discussion of tasks. Users can work in different environments where they can view tasks assigned to themselves or others and add comments.</li>
   <li><a href="https://github.com/bezhan2009/Datagen">Datagen</a> - DataGen is a Python library for generating random data of different types: strings, numbers, lists, etc. It is used to create test data, for analysis, and other operations involving random data.</li>
-  <li><a href="https://github.com/bezhan2009/TestItAll">TestItAll</a> - TestItAll is a powerful and flexible project testing framework developed in Python. It provides all the necessary tools for unit testing, integration testing, static code analysis, test coverage, and more.</li>
+  <li><a href="https://github.com/bezhan2009/Aether">Aether</a> - Aether is an online store training project developed as part of courses. It is not intended for commercial use, but was created to learn the basic principles of creating Web applications.</li>
 </ul>
