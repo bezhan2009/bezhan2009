@@ -1,27 +1,22 @@
 <h1 align="center">Hi 👋, I'm Bejan Karimov</h1>
-
 <h3 align="center">Junior Back-End Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bejankarimov&label=Profile%20views&color=0e75b6&style=flat" alt="bejankarimov" />
 </p>
 
-
-
-
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
 </p>
 
-<p><h3 align="center">Connect with me:</h3></p>
+<h2 align="center">📞 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/chupapy.munanuu/" target="_blank">
@@ -32,5 +27,26 @@
   </a>
 </p>
 
-<h2 align="center">About me:</h2>
-<p align="center">As a junior back-end developer, I'm passionate about building robust and efficient server-side solutions. While I primarily focus on back-end development, I also have the capability to work on front-end tasks when needed. Although I haven't worked on large-scale projects yet, I am eager to learn and grow in my role. My skills in Python, Django, Git, and other related technologies enable me to contribute effectively to projects, and I'm always excited to take on new challenges and expand my knowledge.</p>
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  I'm a junior back-end developer passionate about building robust and efficient server-side solutions. While my primary focus is on back-end development, I am also comfortable working on front-end tasks when needed. Although I am still early in my career and have not yet worked on large-scale projects, I am eager to learn and grow. My skills in Python, Django, Git, and other related technologies enable me to contribute effectively to projects. I am always excited to take on new challenges and expand my knowledge.
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en" alt="bezhan2009" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&" alt="bezhan2009" />
+</p>
+
+<h2 align="center">💡 What I'm Learning Now</h2>
+<p align="center">
+  I am currently delving deeper into modern back-end development methodologies and exploring new technologies and tools to enhance my skills.
+</p>
+
+<h2 align="center">📝 My Projects</h2>
+<ul>
+  <li><a href="https://github.com/bezhan2009/ToDoMany">ToDoMany</a> - A web application designed for task and comment management across various work environments. It allows for the creation, assignment, tracking, and discussion of tasks. Users can work in different environments where they can view tasks assigned to themselves or others and add comments.</li>
+  <li><a href="https://github.com/bezhan2009/Datagen">Datagen</a> - DataGen is a Python library for generating random data of different types: strings, numbers, lists, etc. It is used to create test data, for analysis, and other operations involving random data.</li>
+  <li><a href="https://github.com/bezhan2009/TestItAll">TestItAll</a> - TestItAll is a powerful and flexible project testing framework developed in Python. It provides all the necessary tools for unit testing, integration testing, static code analysis, test coverage, and more.</li>
+</ul>
