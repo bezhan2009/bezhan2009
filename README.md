@@ -34,7 +34,7 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en" alt="bezhan2009" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&" alt="bezhan2009" />
 </p>
