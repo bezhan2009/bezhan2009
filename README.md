@@ -2,7 +2,8 @@
 <h3 align="center">Junior Back-End Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bejankarimov&label=Profile%20views&color=0e75b6&style=flat" alt="bejankarimov" />
+  <img src="https://komarev.com/ghpvc/?username=bezhan2009&label=Profile%20views&color=0e75b6&style=flat" alt="bezhan2009" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezhan2009" alt="bezhan2009" /></a> </p>
 </p>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -34,9 +35,10 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en" alt="bezhan2009" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&" alt="bezhan2009" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhan2009&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="bezhan2009" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="bezhan2009" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="bezhan2009" />
 </p>
 
 <h2 align="center">💡 What I'm Learning Now</h2>
