@@ -25,7 +25,7 @@
     <td>Languages / IDE</td>
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=black" alt="PyCharm" />
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
@@ -45,7 +45,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
