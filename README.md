@@ -1,5 +1,4 @@
-
-![Custom Bottom_up](https://github.com/bezhan2009/bezhan2009/assets/157696306/7dd368e9-0e34-48b2-be94-9d581820ebef)
+<h1 align="center">Welcome to my profile!</h1>
 <p align="center">
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
@@ -8,8 +7,7 @@
 
 <p align="center">
     <h3 align="center">Profile views</h3>
-    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg">  </p>
-  
+    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
 </p>
 
 <p align="center"> 
