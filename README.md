@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
     </td>
   </tr>
   <tr>
