@@ -1,12 +1,16 @@
-
-<!-- Insert the contents of header.html here -->
 <div align="center">
-  <h1>Welcome to my Profile!</h1>
-  <div style="position: relative; bottom: -1px; left: 0; width: 100%; overflow: hidden; line-height: 0;">
-    <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
-      <path d="M0.00,49.98 C150.00,150.00 349.24,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #0D1117;"></path>
-    </svg>
-  </div>
+  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#4e54c8"/>
+        <stop offset="100%" stop-color="#8f94fb"/>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#gradient)"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="white" font-weight="bold">
+      Welcome to my Profile!
+    </text>
+  </svg>
 </div>
 
 <p align="center">
