@@ -3,11 +3,15 @@
 <p align="center">
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/bezhan2009/bezhan2009/graphs/contributors"><img src="https://img.shields.io/github/contributors/bezhan2009/bezhan2009?color=blue"></a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bejankarimov&label=Profile%20views&color=0e75b6&style=flat-square" alt="bejankarimov" />
+    <img src="https://profile-counter.glitch.me/bezhan2009/count.svg">  
+  
 </p>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
