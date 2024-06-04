@@ -1,6 +1,8 @@
-<div align="center" style="background: linear-gradient(to bottom, #4e54c8, #8f94fb); height: 102px; color: white; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: bold; position: relative;">
+
+<!-- Insert the contents of header.html here -->
+<div align="center">
   <h1>Welcome to my Profile!</h1>
-  <div style="position: absolute; bottom: -1px; left: 0; width: 100%; overflow: hidden; line-height: 0;">
+  <div style="position: relative; bottom: -1px; left: 0; width: 100%; overflow: hidden; line-height: 0;">
     <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
       <path d="M0.00,49.98 C150.00,150.00 349.24,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #0D1117;"></path>
     </svg>
