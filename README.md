@@ -7,7 +7,10 @@
   </div>
 </div>
 
-<h3 align="center">Junior Back-End Developer</h3>
+<p align="center">
+    <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bejankarimov&label=Profile%20views&color=0e75b6&style=flat-square" alt="bejankarimov" />
@@ -64,17 +67,14 @@
   </a>
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-  I am a passionate Junior Back-End Developer committed to building robust and efficient server-side solutions. While my primary expertise lies in back-end development, I am also adept at handling front-end tasks when required. Though I am early in my career and have not yet worked on large-scale projects, my eagerness to learn and grow drives me to continually improve my skills. My proficiency in Python, Django, Git, and related technologies allows me to effectively contribute to any project. I am always excited to take on new challenges and expand my knowledge.
-</p>
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhan2009&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="Top Languages" style="max-width: 300px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="GitHub Stats" style="max-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" style="max-width: 300px;" />
+  
+
 </p>
 
 <h2 align="center">💡 Current Learning Focus</h2>
