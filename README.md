@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile!</h1>
+![](assets/Bottom_up.svg)
 <p align="center">
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
