@@ -25,7 +25,7 @@
     <td>Languages / IDE</td>
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=black" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
@@ -39,12 +39,13 @@
       <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown" />
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
     </td>
   </tr>
   <tr>
     <td>Databases</td>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=black" alt="MySQL" />
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
     </td>
   </tr>
