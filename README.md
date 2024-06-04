@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/bezhan2009/count.svg">  
+    <h3 align="center">Profile views</h3>
+    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg">  </p>
   
 </p>
 
