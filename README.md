@@ -1,13 +1,5 @@
 
-<!-- Insert the contents of header.html here -->
-<div align="center">
-  <h1>Welcome to my Profile!</h1>
-  <div style="position: relative; bottom: -1px; left: 0; width: 100%; overflow: hidden; line-height: 0;">
-    <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
-      <path d="M0.00,49.98 C150.00,150.00 349.24,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #0D1117;"></path>
-    </svg>
-  </div>
-</div>
+![Bottom_up](https://github.com/bezhan2009/bezhan2009/assets/157696306/7dd368e9-0e34-48b2-be94-9d581820ebef)
 
 <p align="center">
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
