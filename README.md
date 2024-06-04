@@ -6,14 +6,11 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bezhan2009.bezhan2009" alt="visitors"/>
 </p>
 
-<p align="center">
-    <h3 align="center">Profile views</h3>
-    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
-</p>
-
+<h2 align="center">Github Profile Trophy</h2>
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <p align="center"></p><a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
+    </a></p>
   </a> 
 </p>
 
@@ -69,8 +66,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhan2009&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="Top Languages" style="max-width: 300px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="GitHub Stats" style="max-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" style="max-width: 300px;" />
-  
+</p>
 
+<p align="center">
+    <h3 align="center">Profile views</h3>
+    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
 </p>
 
 <h2 align="center">💡 Current Learning Focus</h2>
