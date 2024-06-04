@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(to bottom, #4e54c8, #8f94fb); height: 102px; color: white; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: bold; position: relative;">
-  <h1>Hi 👋, I'm Bejan Karimov</h1>
+  <h1>Welcome to my Profile!</h1>
   <div style="position: absolute; bottom: -1px; left: 0; width: 100%; overflow: hidden; line-height: 0;">
     <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
       <path d="M0.00,49.98 C150.00,150.00 349.24,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #0D1117;"></path>
@@ -30,24 +30,24 @@
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
-      <img src="https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white" alt="Golang" />
+      <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
     </td>
   </tr>
   <tr>
     <td>CI / CD</td>
     <td>
       <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown" />
-      <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git" alt="Git" />
-      <img src="https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
   <tr>
     <td>Databases</td>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
