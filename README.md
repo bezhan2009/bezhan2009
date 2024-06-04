@@ -1,17 +1,5 @@
-<div align="center">
-  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#4e54c8"/>
-        <stop offset="100%" stop-color="#8f94fb"/>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="150" fill="url(#gradient)"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="white" font-weight="bold">
-      Welcome to my Profile!
-    </text>
-  </svg>
-</div>
+
+![Bottom_up](https://github.com/bezhan2009/bezhan2009/assets/157696306/7dd368e9-0e34-48b2-be94-9d581820ebef)
 
 <p align="center">
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
