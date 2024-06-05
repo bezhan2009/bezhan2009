@@ -77,6 +77,12 @@
     <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
 </p>
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a junior back-end developer passionate about building robust and efficient server-side solutions. While my primary focus is on back-end development, I am also comfortable working on front-end tasks when needed. Although I am still early in my career and have not yet worked on large-scale projects, I am eager to learn and grow. My skills in Python, Django, Git, and other related technologies enable me to contribute effectively to projects. I am always excited to take on new challenges and expand my knowledge.
+</p>
+
 <h2 align="center">💡 Current Learning Focus</h2>
 <p align="center">
   I am currently delving deeper into modern back-end development methodologies and exploring new technologies and tools to enhance my skillset.
