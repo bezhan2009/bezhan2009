@@ -30,7 +30,6 @@
         <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=Sublime-Text&logoColor=white" alt="Sublime Text" />
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
         <img src="https://img.shields.io/badge/-GoLand-00ADD8?style=flat&logo=goland&logoColor=white" alt="GoLand" />
