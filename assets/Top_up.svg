@@ -19,10 +19,14 @@
             </feMerge>
         </filter>
     </defs>
-    <rect width="854" height="200" fill="url(#gradientBackground)"/>
+    <rect width="854" height="200" fill="url(#gradientBackground)">
+        <animate attributeName="fill" values="url(#gradientBackground);#2a5298;url(#gradientBackground)" dur="10s" repeatCount="indefinite"/>
+    </rect>
     <g filter="url(#dropShadow)">
         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" font-size="60" font-weight="bold" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#textGradient)">
             Welcome to my profile!
+            <animate attributeName="x" from="50%" to="60%" dur="5s" repeatCount="indefinite" values="50%;55%;50%"/>
+            <animate attributeName="fill" values="url(#textGradient);#ffd200;url(#textGradient)" dur="5s" repeatCount="indefinite"/>
         </text>
     </g>
 </svg>
