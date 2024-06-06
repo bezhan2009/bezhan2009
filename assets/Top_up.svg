@@ -22,6 +22,31 @@
     <rect width="854" height="200" fill="url(#gradientBackground)">
         <animate attributeName="fill" values="url(#gradientBackground);#2a5298;url(#gradientBackground)" dur="10s" repeatCount="indefinite"/>
     </rect>
+    
+    <!-- Animated Blocks -->
+    <g>
+        <rect x="10" y="10" width="20" height="20" fill="#0D1117">
+            <animate attributeName="x" values="10; 800; 10" dur="5s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="10; 150; 10" dur="5s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="30" y="30" width="20" height="20" fill="#0D1117">
+            <animate attributeName="x" values="30; 750; 30" dur="6s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="30; 140; 30" dur="6s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="50" y="50" width="20" height="20" fill="#0D1117">
+            <animate attributeName="x" values="50; 700; 50" dur="7s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="50; 130; 50" dur="7s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="70" y="70" width="20" height="20" fill="#0D1117">
+            <animate attributeName="x" values="70; 650; 70" dur="8s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="70; 120; 70" dur="8s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="90" y="90" width="20" height="20" fill="#0D1117">
+            <animate attributeName="x" values="90; 600; 90" dur="9s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="90; 110; 90" dur="9s" repeatCount="indefinite"/>
+        </rect>
+    </g>
+    
     <g filter="url(#dropShadow)">
         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" font-size="60" font-weight="bold" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#textGradient)">
             Welcome to my profile!
