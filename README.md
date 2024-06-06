@@ -7,6 +7,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bezhan2009.bezhan2009" alt="visitors"/>
 </p>  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bejan+Karimov;Over+3+years+of+programming+experience;Always+learning+new+things+;Junior+Backend+Developer;Diving+deeper+into+programming+everyday)](https://git.io/typing-svg)
+
 <h2 align="center">🏆 Github Profile Trophy</h2>
 <p align="center"> 
     <p align="center"></p><a href="https://github.com/ryo-ma/github-profile-trophy">
