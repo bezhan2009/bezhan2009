@@ -1,57 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
+    <style>
+        .text {
+            font-size: 70px;
+            font-weight: 700;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+        .desc {
+            font-size: 20px;
+            font-weight: 500;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+    </style>
     <defs>
-        <linearGradient id="gradientBackground" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#1e3c72;stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#2a5298;stop-opacity:1" />
+        <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#6c5ce7"/><stop offset="100%" stop-color="#ff7675"/>
         </linearGradient>
-        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#f7971e;stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#ffd200;stop-opacity:1" />
-        </linearGradient>
-        <filter id="dropShadow">
-            <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-            <feOffset dx="2" dy="2" result="offsetblur"/>
-            <feFlood flood-color="rgba(0,0,0,0.5)"/>
-            <feComposite in2="offsetblur" operator="in"/>
-            <feMerge>
-                <feMergeNode/>
-                <feMergeNode in="SourceGraphic"/>
-            </feMerge>
-        </filter>
     </defs>
-    <rect width="854" height="200" fill="url(#gradientBackground)">
-        <animate attributeName="fill" values="url(#gradientBackground);#2a5298;url(#gradientBackground)" dur="10s" repeatCount="indefinite"/>
-    </rect>
-    
-    <!-- Animated Blocks -->
-    <g>
-        <rect x="10" y="10" width="20" height="20" fill="#0D1117">
-            <animate attributeName="x" values="10; 800; 10" dur="5s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="10; 150; 10" dur="5s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="30" y="30" width="20" height="20" fill="#0D1117">
-            <animate attributeName="x" values="30; 750; 30" dur="6s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="30; 140; 30" dur="6s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="50" y="50" width="20" height="20" fill="#0D1117">
-            <animate attributeName="x" values="50; 700; 50" dur="7s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="50; 130; 50" dur="7s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="70" y="70" width="20" height="20" fill="#0D1117">
-            <animate attributeName="x" values="70; 650; 70" dur="8s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="70; 120; 70" dur="8s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="90" y="90" width="20" height="20" fill="#0D1117">
-            <animate attributeName="x" values="90; 600; 90" dur="9s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="90; 110; 90" dur="9s" repeatCount="indefinite"/>
-        </rect>
+    <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+        <path d="" fill="url(#linear)" opacity="0.6" >
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z"></animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.6" >
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z"></animate>
+        </path>
     </g>
-    
-    <g filter="url(#dropShadow)">
-        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" font-size="60" font-weight="bold" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#textGradient)">
-            Welcome to my profile!
-            <animate attributeName="x" from="50%" to="60%" dur="5s" repeatCount="indefinite" values="50%;55%;50%"/>
-            <animate attributeName="fill" values="url(#textGradient);#ffd200;url(#textGradient)" dur="5s" repeatCount="indefinite"/>
-        </text>
-    </g>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" > Welcome to my profile!</text>
 </svg>
