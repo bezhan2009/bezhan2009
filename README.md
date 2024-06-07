@@ -8,6 +8,7 @@
 </p>  
 
 <div align="center">
+
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bejan+Karimov;Over+3+years+of+programming+experience;Always+learning+new+things+;Junior+Backend+Developer;Diving+deeper+into+programming+everyday!)](https://git.io/typing-svg)
 
@@ -83,7 +84,7 @@
     <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 29px> About Me</h2>
 
 <p align="center">
   I'm a junior back-end developer passionate about building robust and efficient server-side solutions. While my primary focus is on back-end development, I am also comfortable working on front-end tasks when needed. Although I am still early in my career and have not yet worked on large-scale projects, I am eager to learn and grow. My skills in Python, Django, Git, and other related technologies enable me to contribute effectively to projects. I am always excited to take on new challenges and expand my knowledge.
