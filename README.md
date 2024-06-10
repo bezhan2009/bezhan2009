@@ -99,6 +99,5 @@
 <ul>
   <li><a href="https://github.com/bezhan2009/ToDoMany">ToDoMany</a> - A web application for task and comment management across various work environments. It enables the creation, assignment, tracking, and discussion of tasks, with users able to view tasks assigned to themselves or others and add comments.</li>
   <li><a href="https://github.com/bezhan2009/Datagen">Datagen</a> - A Python library for generating random data of different types, including strings, numbers, and lists. Useful for creating test data, analysis, and other operations involving random data.</li>
-  <li><a href="https://github.com/bezhan2009/Aether">Aether</a> - An online store training project developed as part of coursework. Not intended for commercial use, it was created to learn the basic principles of web application development.</li>
     <li><a href="https://github.com/bezhan2009/ORPXI">ORPXI</a> - is an alternative command line written in the Go language. It provides the same basic commands as standard CMD, but also includes additional commands specific to the tool. ORPXI is compatible with most CMD commands, providing a more flexible and extensible command shell</li>
 </ul>
