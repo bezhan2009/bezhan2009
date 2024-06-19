@@ -8,7 +8,6 @@
 </p>  
 
 <div align="center">
-
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bejan+Karimov;Over+3+years+of+programming+experience;Always+learning+new+things+;Junior+Backend+Developer;Diving+deeper+into+programming+everyday!)](https://git.io/typing-svg)
 
@@ -16,10 +15,9 @@
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
 <p align="center"> 
-    <p align="center"></p><a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
-    </a></p>
-  </a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
+    </a>
 </p>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -73,8 +71,8 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhan2009&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="Top Languages" style="max-width: 300px;" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezhan2009&hide=html&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="Top Languages" style="max-width: 300px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="GitHub Stats" style="max-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" style="max-width: 300px;" />
 </p>
