@@ -4,6 +4,7 @@
     <a href="https://github.com/bezhan2009/bezhan2009"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.22-00ADD8.svg"></a>
+    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.76.0-DEA584.svg"></a>
     <a href="https://github.com/bezhan2009/bezhan2009/graphs/contributors"><img src="https://img.shields.io/github/contributors/bezhan2009/bezhan2009?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bezhan2009.bezhan2009" alt="visitors"/>
 </p>
