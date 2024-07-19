@@ -39,11 +39,11 @@
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> 
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
       <img src="https://img.shields.io/badge/-GoLand-00ADD8?style=flat&logo=goland&logoColor=white" alt="GoLand" />
     </td>
-  </tr>
+</tr>
   <tr>
     <td>CI / CD</td>
     <td>
@@ -57,8 +57,9 @@
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
-  </tr>
+</tr>
 </table>
 
 <h2 align="center">📞 Connect with Me</h2>
