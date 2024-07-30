@@ -81,11 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" style="max-width: 300px;" />
 </p>
 
-<p align="center">
-    <h3 align="center">Profile views</h3>
-    <p align="center"><img src="https://profile-counter.glitch.me/bezhan2009/count.svg"></p>
-</p>
-
 <h2 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 29px> About Me</h2>
 
 <p align="center">
