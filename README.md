@@ -66,7 +66,7 @@
 <h2 align="center">📞 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/chupapy.munanuu/" target="_blank">
+  <a href="https://www.instagram.com/chupappi_munianu/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/BezanKarim90911" target="_blank">
