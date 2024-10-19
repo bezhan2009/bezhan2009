@@ -45,13 +45,14 @@
     </td>
 </tr>
   <tr>
-    <td>CI / CD</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown" />
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-  </tr>
+  <td>CI / CD</td>
+  <td>
+    <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  </td>
+</tr>
   <tr>
     <td>Databases</td>
       <td>
@@ -72,7 +73,11 @@
   <a href="https://twitter.com/BezanKarim90911" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="40" height="40"/>
   </a>
+  <a href="https://t.me/JustBejan" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 
