@@ -70,9 +70,6 @@
   <a href="https://www.instagram.com/karimov_bezhan2009/" target="new">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/BezanKarim90911" target="new">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" width="40" height="40"/>
-  </a>
   <a href="https://t.me/JustBejan" target="new">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
   </a>
