@@ -70,10 +70,14 @@
   <a href="https://www.instagram.com/karimov_bezhan2009/" target="new">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/bezhan-karimov-002292334/" target="new">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
   <a href="https://t.me/JustBejan" target="new">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <h2 align="center">📈 GitHub Stats</h2>
