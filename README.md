@@ -9,15 +9,14 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bezhan2009.bezhan2009" alt="visitors"/>
 </p>
 
-
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bejan+Karimov;Over+3+years+of+programming+experience;Always+learning+new+things+;Junior+Backend+Developer;Diving+deeper+into+programming+everyday!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Bejan+Karimov;Backend+Developer+%7C+Go+%7C+Python;Passionate+about+performance+and+scalability;Always+learning+and+exploring!)](https://git.io/typing-svg)
 
 </div>
 
-<h2 align="center">🏆 Github Profile Trophy</h2>
-<p align="center"> 
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
     </a>
@@ -34,20 +33,18 @@
     <td>Languages / IDE</td>
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" />
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
+      <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/-GoLand-00ADD8?style=flat&logo=goland&logoColor=white" alt="GoLand" />
     </td>
 </tr>
   <tr>
   <td>CI / CD</td>
   <td>
-    <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -56,7 +53,6 @@
   <tr>
     <td>Databases</td>
       <td>
-       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -70,33 +66,30 @@
   <a href="https://www.instagram.com/karimov_bezhan2009/" target="new">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/bezhan-karimov-002292334/" target="new">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
   <a href="https://t.me/JustBejan" target="new">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/bezhan-karimov-002292334/" target="new">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
-
-
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezhan2009&hide=html&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="Top Languages" style="max-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=2f80ed" alt="GitHub Stats" style="max-width: 300px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true&background=0D1117&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=2f80ed&sideNums=c9d1d9&dates=c9d1d9&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" style="max-width: 300px;" />
+<p align="center">    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezhan2009&hide=html&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bezhan2009&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 29px> About Me</h2>
+<h2 align="center">💡 About Me</h2>
 
 <p align="center">
-  I'm a junior back-end developer passionate about building robust and efficient server-side solutions. While my primary focus is on back-end development, I am also comfortable working on front-end tasks when needed. Although I am still early in my career and have not yet worked on large-scale projects, I am eager to learn and grow. My skills in Python, Django, Git, and other related technologies enable me to contribute effectively to projects. I am always excited to take on new challenges and expand my knowledge.
+    Hi! My name is Bejan and I am a passionate backend developer. I enjoy writing performant, clean and well-structured code. My main focus is Go and Python, but I am not limited to these languages. I love learning new technologies and solving complex problems, whether it is performance optimization, working with databases or building reliable APIs. 🚀
 </p>
 
-<h2 align="center">💡 Current Learning Focus</h2>
+<h2 align="center">🎯 Current Learning Focus</h2>
 <p align="center">
-  I am currently delving deeper into modern back-end development methodologies and exploring new technologies and tools to enhance my skillset.
+    Now I am actively studying microservice architecture, gRPC, DevOps practices and working with high-load systems.
 </p>
-
 
