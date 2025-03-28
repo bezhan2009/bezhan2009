@@ -41,24 +41,32 @@
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/-GoLand-00ADD8?style=flat&logo=goland&logoColor=white" alt="GoLand" />
     </td>
-</tr>
+  </tr>
   <tr>
-  <td>CI / CD</td>
-  <td>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  </td>
-</tr>
+    <td>CI / CD</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
   <tr>
     <td>Databases</td>
-      <td>
-       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
-       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-       <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-      </td>
-</tr>
+    <td>
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td>Message Brokers</td>
+    <td>
+      <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" />
+    </td>
+  </tr>
 </table>
+
 
 <h2 align="center">📞 Connect with Me</h2>
 
