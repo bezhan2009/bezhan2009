@@ -11,7 +11,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Bejan+Karimov;Backend+Developer+%7C+Go+%7C+Python;Passionate+about+performance+and+scalability;Always+learning+and+exploring!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Bezhan+Karimov;Backend+Developer+%7C+Go+%7C+Python;Passionate+about+performance+and+scalability;Always+learning+and+exploring!)](https://git.io/typing-svg)
 
 </div>
 
