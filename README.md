@@ -23,7 +23,6 @@
 </p>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
-
 <table align="center">
   <tr>
     <th>Category</th>
@@ -63,10 +62,10 @@
     <td>
       <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
       <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/-Redis-800000?style=flat&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
 </table>
-
 
 <h2 align="center">📞 Connect with Me</h2>
 
