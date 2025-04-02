@@ -61,7 +61,7 @@
     <td>Message Brokers</td>
     <td>
       <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-      <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
       <img src="https://img.shields.io/badge/-Redis%20Pub/Sub-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis Pub/Sub" />
     </td>
   </tr>
