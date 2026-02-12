@@ -94,9 +94,3 @@
 <p align="center">
     Hi! My name is Bejan and I am a passionate backend developer. I enjoy writing performant, clean and well-structured code. My main focus is Go and Python, but I am not limited to these languages. I love learning new technologies and solving complex problems, whether it is performance optimization, working with databases or building reliable APIs. 🚀
 </p>
-
-<h2 align="center">🎯 Current Learning Focus</h2>
-<p align="center">
-    Now I am actively studying microservice architecture, gRPC, DevOps practices and working with high-load systems.
-</p>
-
