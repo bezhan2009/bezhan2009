@@ -15,11 +15,15 @@
 
 </div>
 
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
+
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
-    </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1"
+      alt="Bezhan Karimov GitHub Trophies"
+    />
+  </a>
 </p>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -67,20 +71,6 @@
   </tr>
 </table>
 
-<h2 align="center">📞 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/karimov_bezhan2009/" target="new">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/JustBejan" target="new">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bezhan-karimov-002292334/" target="new">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">    
@@ -89,8 +79,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezhan2009&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">💡 About Me</h2>
+<div align="center">
 
-<p align="center">
-    Hi! My name is Bejan and I am a passionate backend developer. I enjoy writing performant, clean and well-structured code. My main focus is Go and Python, but I am not limited to these languages. I love learning new technologies and solving complex problems, whether it is performance optimization, working with databases or building reliable APIs. 🚀
-</p>
+## 📫 Contact Me
+
+<a href="https://t.me/JustBejan">
+  <img src="https://img.shields.io/badge/Telegram-JustBejan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/bezhan-karimov-002292334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bezhan%20Karimov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/bezhankaa">
+  <img src="https://img.shields.io/badge/Instagram-bezhanka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
