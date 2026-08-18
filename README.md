@@ -87,10 +87,6 @@
   <img src="https://img.shields.io/badge/Telegram-JustBejan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/bezhan-karimov-002292334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bezhan%20Karimov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://www.instagram.com/bezhankaa">
   <img src="https://img.shields.io/badge/Instagram-bezhanka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
